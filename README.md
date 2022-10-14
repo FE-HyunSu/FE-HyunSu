@@ -5,5 +5,8 @@
 ## 💻 Homepage
 - [https://fe-hyunsu.github.io/intro](https://fe-hyunsu.github.io/intro)
 
+## 👨‍🌾 Notion
+- [notion 바로가기](https://phase-litter-337.notion.site/Frontend-KHS-2353d76247774c8582e74ad61e71337c)
+
 ## 📝 GitBlog
-- [https://fe-hyunsu.github.io](https://fe-hyunsu.github.io)
+- (준비중입니다) [https://fe-hyunsu.github.io](https://fe-hyunsu.github.io)
