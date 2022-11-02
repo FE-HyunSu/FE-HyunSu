@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFE-HyunSu&count_bg=%237AD733&title_bg=%23475F84&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2354B435&title_bg=%233a3a3a&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👋 안녕하세요 (hyunsu === mason)
 - 👨🏻‍💻 안녕하세요, 인터렉션 프론트 웹개발에 관심이 많은 김현수(mason) 라고 합니다. 🙂
