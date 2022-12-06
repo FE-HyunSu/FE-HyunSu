@@ -6,5 +6,4 @@
 - 🏅 ETC(Everyday Ten Commit) 챌린지 진행중.
 - 🏂 gitblog : [https://fe-hyunsu.github.io](https://fe-hyunsu.github.io)
 
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=fe-hyunsu&layout=compact)](https://github.com/FE-HyunSu)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fe-hyunsu&" alt="fe-hyunsu" /></p>
