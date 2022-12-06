@@ -5,6 +5,6 @@
 - 🚴‍♂️ 2022/10/08 부터 기존 사용하던 github 계정들을 정리하고, 본계정 하나로 운영중입니다.
 - 🏅 ETC(Everyday Ten Commit) 챌린지 진행중.
 - 🏂 [https://fe-hyunsu.github.io](https://fe-hyunsu.github.io)
-- [![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=fe-hyunsu&layout=compact)](https://github.com/FE-HyunSu)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe-hyunsu)](https://github.com/FE-HyunSu)
-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fe-hyunsu&" alt="fe-hyunsu" />
+
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=fe-hyunsu&layout=compact)](https://github.com/FE-HyunSu)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fe-hyunsu&" alt="fe-hyunsu" /></p>
