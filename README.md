@@ -7,8 +7,8 @@
 - 🗽 업무시간 외 아침, 저녁, 휴일 시간대에 업데이트 합니다.
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-hyunsu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fe-hyunsu&" alt="fe-hyunsu" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-hyunsu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ## 🏂 ServicePage
