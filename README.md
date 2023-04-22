@@ -20,5 +20,5 @@
 - [[Liveweather](https://hsliveweather.netlify.app)]
 - [[AccountBook](https://tubular-cocada-39cf07.netlify.app)]
 - [[AccountBookAdmin](https://reliable-florentine-21f16f.netlify.app)]
-- [[KBOrder](https://kb-order.vercel.app/)]
-- [[꽃가루를 날려](https://flytheflowers.vercel.app)]
+- [[KBOrder(삼성동 이레 김밥 주문)](https://kb-order.vercel.app/)]
+- [[꽃가루를 날려(디자인-개발 협업용)](https://flytheflowers.vercel.app)]
