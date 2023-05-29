@@ -13,12 +13,6 @@
 
 ## 🏂 ServicePage
 
-- [[INTRO](https://fe-hyunsu.github.io/intro)]
 - [[BLOG](https://fe-hyunsu.github.io)]
-- [[거기지금어디야](https://hswhereareyou.netlify.app)]
-- [[Endcreditmotion](https://endcreditmotion.netlify.app)]
-- [[Liveweather](https://hsliveweather.netlify.app)]
-- [[AccountBook(스터디모임 회비정산)](https://tubular-cocada-39cf07.netlify.app)]
-- [[AccountBookAdmin(회비정산 관리자)](https://reliable-florentine-21f16f.netlify.app)]
 - [[KBOrder(삼성동 이레 김밥 주문)](https://kb-order.vercel.app)]
 - [[꽃가루를 날려(디자인-개발 협업용)](https://flytheflowers.vercel.app)]
