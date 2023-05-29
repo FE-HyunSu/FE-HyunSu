@@ -10,9 +10,3 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fe-hyunsu&" alt="fe-hyunsu" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-hyunsu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-## 🏂 ServicePage
-
-- [[BLOG](https://fe-hyunsu.github.io)]
-- [[KBOrder(삼성동 이레 김밥 주문)](https://kb-order.vercel.app)]
-- [[꽃가루를 날려(디자인-개발 협업용)](https://flytheflowers.vercel.app)]
