@@ -14,5 +14,5 @@
 
 ### ⛑️ Service Page.
 
-- [KB-Order](https://kb-order.vercel.app)
-- [Flytheflowers](https://flytheflowers.vercel.app)
+- [🍙 KB-Order](https://kb-order.vercel.app)
+- [🎉 Flytheflowers](https://flytheflowers.vercel.app)
