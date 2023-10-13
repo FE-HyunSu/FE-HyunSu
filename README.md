@@ -12,5 +12,5 @@
 - [🎉 Flytheflowers](https://flytheflowers.vercel.app)
 - [🎥 Endcredit](endcreditmotion.netlify.app)
 - [🗺️ WhereAreYou](https://hswhereareyou.netlify.app)
-- [💰 AccountBook](tubular-cocada-39cf07.netlify.app)
+- [💰 AccountBook](https://tubular-cocada-39cf07.netlify.app)
 - [🍩 SoraNote](https://soranote.vercel.app)
