@@ -5,6 +5,7 @@
 
 ### 🏂 Service.
 - [💌 Cheerup Card [in progress(90%)]](https://cheerup-giftcard.vercel.app)
+- [🕹️ Weapon Simulator](https://weapon-simulator.vercel.app)
 - [🍙 KB Order](https://kb-order.vercel.app)
 - [🎉 Fly flowers](https://flytheflowers.vercel.app)
 - [🧾 AccountBook](https://tubular-cocada-39cf07.netlify.app)
