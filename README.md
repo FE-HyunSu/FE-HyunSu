@@ -12,4 +12,4 @@
 - [🧾 AccountBook](https://tubular-cocada-39cf07.netlify.app)
 
 ### 🪂 In Progress.
-- [🕹️ GRG(DEMO)](https://dev-grg.vercel.app)
+- [🕹️ GRG (demo)](https://dev-grg.vercel.app)
