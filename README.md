@@ -12,4 +12,4 @@
 - [🧾 AccountBook](https://tubular-cocada-39cf07.netlify.app)
 
 ### 🪂 In Progress.
-- [🕹️ GRG (demo)](http://34.64.200.79)
+- [🕹️ GRG](http://34.64.200.79)
