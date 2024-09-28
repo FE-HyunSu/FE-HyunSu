@@ -13,3 +13,7 @@
 
 ### 🪂 In Progress.
 - [🕹️ GRG](http://34.64.200.79)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/FE-HyunSu?pet-id=2" width="1000" height="120"/>
+</a>
