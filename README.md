@@ -12,7 +12,7 @@
 - [🧾 AccountBook](https://tubular-cocada-39cf07.netlify.app)
 
 ### 🪂 In Progress.
-- [🕹️ GRG](http://34.64.200.79)
+- [🕹️ GRG](http://긁.site)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/FE-HyunSu?pet-id=2" width="1000" height="120"/>
