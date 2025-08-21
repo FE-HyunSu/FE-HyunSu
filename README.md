@@ -13,7 +13,6 @@
 - [🎬 Endcreditmotion](https://endcreditmotion.netlify.app)
 - [🧾 AccountBook](https://tubular-cocada-39cf07.netlify.app)
 - [🎉 Fly flowers](https://flytheflowers.vercel.app)
-- [📃 MasonLog](https://masonlog.vercel.app/)
 
 ### 🪂 In Progress.
 - [🙂 MasonTalk](https://masontalk.vercel.app)
