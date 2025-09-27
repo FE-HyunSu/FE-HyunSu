@@ -5,6 +5,8 @@
 
 ### 🏂 Service.
 
+- [🥇 GRG Games](https://grggames.com)
+- [🙂 MasonTalk](https://masontalk.vercel.app)
 - [🕹️ GRG](https://grg-2024.vercel.app/)
 - [👨‍👨‍👧‍👦 그룹핑](https://member-grouping.vercel.app)
 - [💪 오.운.함.?](https://ounham.vercel.app)
@@ -13,7 +15,3 @@
 - [🎬 Endcreditmotion](https://endcreditmotion.netlify.app)
 - [🧾 AccountBook](https://tubular-cocada-39cf07.netlify.app)
 - [🎉 Fly flowers](https://flytheflowers.vercel.app)
-
-### 🪂 In Progress.
-- [🙂 MasonTalk](https://masontalk.vercel.app)
-- [🥇 GRG Games](https://grggames.com)
