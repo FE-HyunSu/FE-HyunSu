@@ -5,7 +5,6 @@
 
 ### 🏂 Service.
 
-- [📕 MasonDevLog](https://masondevlog.com)
 - [🐝 MasonEffect](https://masoneffect.com) | [npm](https://www.npmjs.com/package/masoneffect)
 - [🥇 GRG Games](https://grggames.com)
 - [🙂 MasonTalk](https://masontalk.vercel.app)
